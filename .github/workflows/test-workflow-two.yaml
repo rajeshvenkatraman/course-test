@@ -1,4 +1,4 @@
-name: Multiple Software Commands.
+name: Multiple Software Command
 on: [push]
 jobs:
   run-shell-commands:
