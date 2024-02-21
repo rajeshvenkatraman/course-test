@@ -1,4 +1,4 @@
-name: Ubuntu Commands.
+name: Commands.
 on: [pull_request]
 jobs:
   run-shell-commands:
