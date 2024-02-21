@@ -1,4 +1,4 @@
-name: Github Demo Workflow
+name: Multiple Software Commands
 on: [push]
 jobs:
   run-shell-commands:

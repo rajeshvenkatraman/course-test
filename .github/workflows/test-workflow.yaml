@@ -1,4 +1,4 @@
-name: Github Demo Workflow
+name: Ubuntu Commands
 on: [push]
 jobs:
   run-shell-commands:
