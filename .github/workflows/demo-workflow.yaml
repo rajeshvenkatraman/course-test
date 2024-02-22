@@ -1,0 +1,12 @@
+name: Demo github workflow.
+on: [push]
+jobs:
+  run-ubuntu-commnand:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Echo a string
+        run: echo "Hello World"
+      - name: MultiLine Command
+        run: |
+          node -v
+          npm -v
