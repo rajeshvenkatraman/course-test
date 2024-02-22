@@ -1,5 +1,5 @@
 name: Multiple Software Commands.
-on: [pull_request]
+on: [push]
 jobs:
   run-shell-commands:
     runs-on: ubuntu-latest
